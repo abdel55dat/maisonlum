@@ -16,7 +16,7 @@ J'ai choisi de travailler sur une boutique e-commerce fictive spécialisée dans
 ## Installation
 
 ```bash
-git clone https://github.com/<ton-username>/maisonlum.git
+git clone https://github.com/abdel55dat/maisonlum.git
 cd maisonlum
 pip install -r requirements.txt
 cp .env.example .env
